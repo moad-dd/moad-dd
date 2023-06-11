@@ -1,5 +1,5 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Moad Boufass</h1>
+<h1 align="center">Hi 👋 , I'm Moad Boufass</h1>
 <h3 align="center">A passionate frontend / backend developer from Morocco</h3>
 <img align="right" width="450"  src="https://www.taeyaar.com/wp-content/uploads/2022/09/Coding-and-Programming-Support.gif" alt="coding">
 
@@ -12,7 +12,11 @@
 - 📫 How to reach me **moadboufass90@gmail.com**
 
 - ⚡ Fun fact **I am a human**
+ 
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moad-dd&label=Profile%20views&color=0e75b6&style=flat" alt="moad-dd" /> </p>
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@moad-boufass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@moad-boufass" height="50" width="60" /></a>
